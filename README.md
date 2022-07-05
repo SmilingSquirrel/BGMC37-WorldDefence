@@ -5,7 +5,7 @@ Made by Smiling Squirrel
 
 Zip File Size: 706KB
 
-Goal: Shoot down all the waves of alien craft. (There is no "victory" declared the waves just stop coming.)
+Goal: Shoot down all the waves of alien craft. (There is no "victory" declared, the waves just stop coming.)
 
 Controls: W,S - Accelerate/Decelerate; A,D - Roll; Mouse,LMB - Look/Shoot
 
